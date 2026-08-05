@@ -1,0 +1,21 @@
+{
+    "name": "Form Renderer",
+    "directory": "form-renderer",
+    "category": "Forms",
+    "type": "preview",
+    "samples": [
+        {
+            "url": "default",
+            "name": "Default Functionalities",
+            "description": "This example demonstrates the basic form renderer component that renders schema driven form.",
+            "category": "Form Renderer",
+            "api": {
+                "FormRenderer": [
+                    "schema"
+                ]
+            },
+            "type": "new"
+        }
+    ],
+    "dataSourcePath": "src/form-renderer/datasource.js"
+}

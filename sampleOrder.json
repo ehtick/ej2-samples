@@ -521,6 +521,12 @@
             "wizard-form": "Wizard Form"
         }
     },
+    "form-renderer": {
+        "ControlName": "Form Renderer",
+        "Samples": {
+            "default": "Default Functionalities"
+        }
+    },
     "gantt": {
         "ControlName": "Gantt Chart",
         "Samples": {

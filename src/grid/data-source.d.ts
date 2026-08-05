@@ -96,3 +96,4 @@ export declare let inventoryStoreData: {
     VendorD: number;
 }[];
 export declare let appointmentData: any[];
+export declare const productDetail: Object[];
